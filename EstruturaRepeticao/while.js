@@ -1,8 +1,8 @@
 let resultadoDado;
 let lancamentos = 0;
 
-while (resultadoDado !== 6) {
-resultadoDado = Math. floor(Math.random() * 6) + 1;
+while (resultadoDado !== 1) {
+resultadoDado = Math. floor(Math.random() * 2) + 1;
 lancamentos++;
 console. log(`Lancamento ${lancamentos}: Resultado do dado: ${resultadoDado}`);
 
