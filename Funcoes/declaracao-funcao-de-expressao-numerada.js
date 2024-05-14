@@ -1,0 +1,1 @@
+const minhaFuncao = function nomeDaFuncao() {};
